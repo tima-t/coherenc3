@@ -1,0 +1,107 @@
+.headerT{
+    padding-top:30px;
+    padding-bottom: 30px;
+    color:#DEFFAE;
+}
+
+.headerT h1{
+    /*color:#DEFFAE;*/
+
+}
+
+.navT{
+   padding-bottom: 30px;
+}
+
+.navT a {
+    text-decoration: none;
+    color:#DEFFAE;
+    font-size:20px;
+}
+
+.noneT{
+    display:none
+}
+
+.container-fluid{
+    background-image: url("./images/back1.png");
+}
+
+.galeryT{
+    padding-top:30px;
+    padding-bottom: 30px;
+    background-color: #E5E4D7;
+}
+
+.galeryT h2{
+    text-align: center;
+}
+
+.aboutProject{
+    text-align: center;
+    padding-top:30px;
+    padding-bottom: 30px;
+    /*color:#DEFFAE;*/
+    font-size: 25px;
+    background-color: white;
+}
+
+.galeryH{
+    text-align: center;
+    background-color: #E5E4D7;
+}
+
+.teamT{
+    text-align: center;
+    padding-top:30px;
+    padding-bottom: 30px;
+    /*background-color: #E5E4D7;*/
+    color:#DEFFAE;
+}
+
+#contacts{
+	/*color:#DEFFAE;*/
+	text-align:center;
+	padding-top:30px;
+	padding-bottom:30px;
+    background-color: #E5E4D7;
+}
+
+.formT{
+	padding-top:40px;
+}
+
+.formT input{
+	margin:5px;
+}
+
+footer{
+	/*background-color: lightgray;*/
+	text-align:center;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+.back-to-top { 
+background: none;
+margin: 0;
+position: fixed;
+bottom: 20px;
+right: 20px;
+width: 70px;
+height: 70px;
+z-index: 100;
+display: none; 
+text-decoration: none;
+/*color: deepskyblue; */
+color:#DEFFAE;
+}
+ 
+  
+ 
+.back-to-top i {
+ 
+  font-size: 60px;
+ 
+}
+
